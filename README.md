@@ -53,4 +53,4 @@ The script outputs a two-part dynamic figure:
 1. Ensure you have **MATLAB** installed on your system.
 2. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/yourusername/Microwave-Engineering-Simulations.git](https://github.com/yunus-kunduz/Microwave-Engineering-Simulations.git)
+   git clone [https://github.com/yunus-kunduz/Microwave-Engineering-Simulations.git](https://github.com/yunus-kunduz/Microwave-Engineering-Simulations.git)
